@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieTicketBookingApp</string>
+    <string name="seat_already_occupied">Seat Already Occupied.</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="abc_the_movie">ABC, The Movie</string>
+    <string name="tickets_two">2 Tickets</string>
+    <string name="proceed">Proceed</string>
+    <string name="booking_can_be_proceed">Booking can be proceed.</string>
+    <string name="min_seat_required">Please select Minimum 2 Seats.</string>
+</resources>
